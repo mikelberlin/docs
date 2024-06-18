@@ -60,6 +60,13 @@ All the RPC URLs are listed under the [**Networks**](../networks/mainnet/paramet
       <td style={{ maxWidth: "20rem" }}><a href="https://docs.api3.org/" target="_blank" rel="noopener noreferrer"><img src="/img/tools/api3_logo.jpeg"/></a></td>
       <td>API3 builds solutions that bridge the gap between off-chain data and on-chain applications with maximum security and minimal latency.<br></br></td>
     </tr>
+    <tr>
+      <td style={{ maxWidth: "20rem" }}><a href="https://docs.diadata.org/" target="_blank" rel="noopener noreferrer"><img src="/img/tools/api3_logo.jpeg"/></a></td>
+      <td>DIA is a cross-chain oracle provider that aggregates first-party market data from a wide range of sources, including CEXs and DEXs. Its first-party data sourcing is thorough, enabling unparalleled transparency and customizability for resilient price feeds for 20,000+ assets including tokens, RWAs, LSTs and many more.
+        <br><br>The DIA oracle on LUKSO is free of use, production-ready and comes with a predefined list of feeds.
+        <br>
+        <li><a href="#" target="_blank" rel="noopener noreferrer">Access DIA oracles on LUKSO</a></li>    <li><a href="#" target="_blank" rel="noopener noreferrer">Included price feeds</a></li><li><a href="#" target="_blank" rel="noopener noreferrer">Oracle support</a></li></td>
+    </tr>
   </tbody>
 </table>
 
